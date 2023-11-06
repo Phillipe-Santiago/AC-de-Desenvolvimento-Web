@@ -1,0 +1,55 @@
+.body{background-image: url(https://www.hardware.com.br/wp-content/uploads/2023/06/windows_xp_1920-1080.jpg.png);
+    min-height: 100vh;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    text-align: center;
+    color: black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.h1{color: gold;
+text-align: center;
+font-family:Georgia, 'Times New Roman', Times, serif}
+
+.h2{color: #993399;
+text-align: center;
+font-family:Georgia, 'Times New Roman', Times, serif}
+
+.link{color: black;}
+
+.button{background-color: gold;
+font-size: 40px;
+font-family:fantasy;}
+
+.div_1{
+    position: relative;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 40px;
+    background-color: #ADD8E6;
+    color: rgb(138, 120, 20);
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 700px;
+    margin-left: 700px;
+    border: 10px solid;
+    border-width: 3px;
+
+}
+
+#div_2{
+    position: absolute;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 60px;
+    background-color: #09b1e9;
+    justify-content: center;
+    color: rgb(255, 0, 0);
+    width: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 700px;
+    margin-left: 450px;
+}

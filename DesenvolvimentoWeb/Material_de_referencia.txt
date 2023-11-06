@@ -1,0 +1,3 @@
+Site de referência: https://developer.mozilla.org/en-US/docs/Web/JavaScript ; https://www.w3schools.com/js/default.asp ***
+
+Interpretador: https://codepen.io/

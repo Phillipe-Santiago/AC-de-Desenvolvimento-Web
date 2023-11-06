@@ -1,0 +1,11 @@
+.body{background-color: #FFAA85;
+    min-height: 100vh;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    text-align: center;
+    color: black;}
+
+.h1{color: gold; text-align: center;}
+
+.h2{color: green; text-align: center;}
+
